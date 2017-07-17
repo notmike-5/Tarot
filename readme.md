@@ -3,7 +3,7 @@ Tarot v0.0(beta)
 
 This is a utility for generating tarot cards from pre-defined decks. 
 
-21 Major Arcana
+21 Major Arcana\n
 
 0	The Fool
 1	The Magician
