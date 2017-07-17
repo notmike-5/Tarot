@@ -5,7 +5,7 @@ This is a utility for generating tarot cards from pre-defined decks.
 
 21 Major Arcana\n
 
-0	The Fool
+0	The Fool  
 1	The Magician
 2 	The High Priestess
 3	The Empress
